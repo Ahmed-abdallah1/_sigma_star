@@ -1,0 +1,19 @@
+.head nav div img{
+    background-attachment: fixed;
+    width: 100vh;
+
+}
+
+.head nav div ul{
+    background-color: blanchedalmond;
+    flex: auto;
+    flex-direction: row-reverse;
+    
+}
+.head nav div ul li{
+    list-style-type: none;
+}
+.head nav div ul li a{
+    text-decoration: none;
+    
+}
